@@ -246,4 +246,48 @@ a.active,a:hover{
     margin-bottom: 20px;
     align-content: center;
     color: white;
+    text-align: center;
+    padding-left: 30%;
 }
+.btn{
+    background: rgba(0,0,0,0.2);
+    color: #fff;
+    line-height: 1.5;
+    display: inline-block;
+    padding: 20px;
+}
+.btn:hover{
+    background: color #494d55;;
+
+}
+
+.pics{
+    padding-left: 25%;
+}
+.head{
+    color: red;
+    text-align: center;
+}
+.p{
+    font-size: large;
+    text-align: center;
+    color: #16171a;
+    font-size: 16px;
+}
+.h2{
+    font-size: large;
+    text-align: center;
+}
+.a{
+    text-align: center;
+}
+.h3{
+    color: #494d55;
+    text-align: center;
+}
+.img{
+    float: right;
+    width: 600px;
+    height: 300px;
+}
+
